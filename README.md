@@ -1,0 +1,1 @@
+This is vigadik's first git project!
